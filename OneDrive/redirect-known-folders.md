@@ -50,7 +50,7 @@ To use the following Group Policy objects, you need the OneDrive sync build 18.1
     If a user has already redirected their known folders to a different OneDrive account, they'll be prompted to direct the folders to the account for your organization (leaving existing files behind).
     
    > [!NOTE]
-   > Locally created OneNote files can't be moved to OneDrive using this policy. To learn how to move OneNote notebooks, see [Move a OneNote notebook to OneDrive](https://support.office.com/article/0af0a141-0bdf-49ab-9e50-45dbcca44082). 
+   > Locally created OneNote files can't be moved to OneDrive using this policy. Folders containing OneNote files will not be moved. To learn how to move OneNote notebooks, see [Move a OneNote notebook to OneDrive](https://support.office.com/article/0af0a141-0bdf-49ab-9e50-45dbcca44082). 
 
   
 - [Silently move Windows known folders to OneDrive](use-group-policy.md#KFMOptInNoWizard)
